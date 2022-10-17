@@ -10,3 +10,4 @@ Author: EmilVeslee
 
 4. Attachments (Image, Audio, video) code
 
+5. Hiding the last seen
